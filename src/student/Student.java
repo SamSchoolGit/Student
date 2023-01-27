@@ -7,6 +7,7 @@ package student;
 /**
  *
  * @author sverdejo
+ *Added comment in code
  */
 public class Student {
     private String studentId;
