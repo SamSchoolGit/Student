@@ -6,7 +6,7 @@ package student;
 
 import java.util.*;
 /**
- *
+ * hello there
  * @author sverdejo
  */
 public class ReversedWord {
